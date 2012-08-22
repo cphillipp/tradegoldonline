@@ -1,0 +1,30 @@
+*** Corvius Changelog ***
+
+2 February 2012 - Version 1.1.1
+	
+	* Fixed the posts box shortcode issue
+
+24 February 2012 - Version 1.1
+	
+	* Fixed a Windows Server issue
+	* Added a new page template(Homepage + Blog)
+
+21 February 2012 - Version 1.0.7
+
+	* Fixed project image bug
+	* Fixed some other small css bugs
+
+16 February 2012 - Version 1.0.5
+
+	* Fixed slider backgrounds bug
+	* Added a custom css panel
+
+14 Feburary 2012 - Version 1.0.3
+	
+	* Fixed newsletter bug
+	* Fixed some css bugs
+	* Added slider background options in theme settings panel
+
+9 Feburary 2012 - Version 1.0
+	
+	* First Release

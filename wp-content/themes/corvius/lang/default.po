@@ -1,0 +1,2602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Corvius 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-06 13:30+0200\n"
+"PO-Revision-Date: 2012-02-08 14:56+0200\n"
+"Last-Translator: Ruben Bristian <me@rubenbristian.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../atlas/404.php:40
+msgid "Apologies, but the page you requested could not be found."
+msgstr ""
+
+#: ../atlas/archive.php:50
+#: ../atlas/archive.php:52
+#: ../atlas/archive.php:54
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../atlas/archive.php:56
+msgid "Blog Archives"
+msgstr ""
+
+#: ../atlas/category.php:42
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: ../atlas/functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: ../atlas/search.php:41
+#, php-format
+msgid "Results for &quot;%s&quot;"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:8
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:9
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:10
+msgid "New Portfolio"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:11
+msgid "View Portfolio"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:12
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:13
+msgid "No Portfolio found"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:14
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:36
+msgid "Search Sets"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:37
+msgid "All Sets"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:38
+msgid "Parent Set"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:39
+msgid "Parent Set:"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:40
+msgid "Edit Set"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:41
+msgid "Update Set"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:42
+msgid "Add New Set"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:43
+msgid "New Set Name"
+msgstr ""
+
+#: ../atlas/fields/post.fields.php:64
+msgid "Thumbnail"
+msgstr ""
+
+#: ../atlas/lib/custom.lib.php:209
+msgid "Page"
+msgstr ""
+
+#: ../atlas/lib/custom.lib.php:234
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: ../atlas/plugins/shortcode_generator.php:18
+#: ../atlas/plugins/theme_store.php:19
+#: ../atlas/plugins/troubleshooting.php:18
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-library-menu.php:212
+#: ../atlas/plugins/shiba-media-library/shiba-media-library.php:299
+msgid "Attachment Tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-library-menu.php:225
+msgid "Search Media"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-library-menu.php:246
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:127
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-library-menu.php:247
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:133
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-helper.php:210
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-library-menu.php:248
+msgid "Attach to a Post"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-library-menu.php:249
+msgid "Detach from a Post"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-library-menu.php:251
+msgid "Set/Replace Tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-library-menu.php:252
+msgid "Add Tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-media-library.php:300
+msgid "Associate tags with image attachments to easily include them in multiple image galleries."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:17
+msgid "Gallery Description"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:41
+#, php-format
+msgid "Gallery updated. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:42
+msgid "Custom field updated."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:43
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:44
+msgid "Gallery updated."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:46
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:47
+#, php-format
+msgid "Gallery published. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:48
+msgid "Gallery saved."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:49
+#, php-format
+msgid "Gallery submitted. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:50
+#, php-format
+msgid "Gallery scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview gallery</a>"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:52
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:53
+#, php-format
+msgid "Gallery draft updated. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:54
+msgid "Media removed from gallery."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:55
+msgid "Media permanently deleted."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:56
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-helper.php:219
+msgid "Undo"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:56
+msgid "Media moved to the trash. <a href=\""
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:57
+msgid "Media restored from the trash."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:102
+msgid "Add an Image"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:128
+msgid "Detach from Gallery"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:130
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-helper.php:218
+msgid "Move to Trash"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-add.php:200
+msgid "Description"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:50
+msgid "No tags found!"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:101
+msgid "No posts found."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:103
+msgid "Title"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:103
+msgid "Time"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:103
+msgid "Status"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:109
+msgid "Published"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:112
+msgid "Scheduled"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:115
+msgid "Pending Review"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:118
+msgid "Unpublished"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-ajax.php:126
+msgid "Y/m/d"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-controls.php:34
+msgid "Shiba Media Tools"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-controls.php:45
+msgid "Image Link Domains: "
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-controls.php:60
+msgid "Shared wp-content domains for multisite: "
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-helper.php:212
+msgid "Delete"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-helper.php:213
+#, php-format
+msgid "You are about to delete <strong>%s</strong>."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-helper.php:214
+msgid "Continue"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-helper.php:215
+msgid "Cancel"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-manage.php:27
+msgid "ID"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-manage.php:30
+msgid "Images"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-manage.php:31
+msgid "Author"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-manage.php:33
+msgid "Categories"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-manage.php:34
+msgid "Tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-manage.php:59
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-manage.php:91
+msgid "Uncategorized"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-manage.php:103
+msgid "No Tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-options.php:26
+msgid "Shiba Media Library settings updated."
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-options.php:33
+msgid "Shiba Media Options"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-permalink.php:34
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-permalink.php:35
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-permalink.php:36
+msgid "New Gallery"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-permalink.php:37
+msgid "View Gallery"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-permalink.php:38
+msgid "Search Gallery"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-permalink.php:39
+msgid "No galleries found"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-permalink.php:40
+msgid "No galleries found in Trash"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-mlib-upload.php:297
+msgid "Show all dates"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-tag-metabox.php:21
+msgid "Add new tag"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-tag-metabox.php:22
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-tag-metabox.php:23
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-tag-metabox.php:46
+msgid "Post Tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-tag-metabox.php:52
+msgid "Gallery Tags"
+msgstr ""
+
+#: ../atlas/plugins/shiba-media-library/shiba-tag-metabox.php:54
+msgid "You cannot modify this taxonomy."
+msgstr ""
+
+#: ../corvius/404.php:29
+msgid "Not Found"
+msgstr ""
+
+#: ../corvius/404.php:30
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help. Additionally you can return to our home page and start over."
+msgstr ""
+
+#: ../corvius/archive.php:33
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../corvius/archive.php:35
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../corvius/archive.php:37
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../corvius/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../corvius/author.php:39
+msgid "About the Author"
+msgstr ""
+
+#: ../corvius/category.php:30
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../corvius/comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../corvius/comments.php:39
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../corvius/comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../corvius/comments.php:64
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../corvius/comments.php:65
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: ../corvius/comments.php:70
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../corvius/comments.php:71
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../corvius/comments.php:72
+msgid "Cancel reply"
+msgstr ""
+
+#: ../corvius/comments.php:73
+msgid "Post Your Comment"
+msgstr ""
+
+#: ../corvius/functions.php:40
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../corvius/functions.php:65
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: ../corvius/functions.php:68
+#: ../corvius/functions.php:85
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../corvius/functions.php:133
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../corvius/functions.php:146
+msgid "Pingback:"
+msgstr ""
+
+#: ../corvius/functions.php:146
+msgid "(Edit)"
+msgstr ""
+
+#: ../corvius/functions.php:160
+msgid "Post Default Sidebar"
+msgstr ""
+
+#: ../corvius/functions.php:162
+msgid "The default sidebar for all posts & blog template"
+msgstr ""
+
+#: ../corvius/functions.php:170
+msgid "Page Default Sidebar"
+msgstr ""
+
+#: ../corvius/functions.php:172
+msgid "The default sidebar for all pages"
+msgstr ""
+
+#: ../corvius/functions.php:180
+msgid "Footer Middle Area Widget 1"
+msgstr ""
+
+#: ../corvius/functions.php:182
+msgid "The first widget area in the middle area of the footer"
+msgstr ""
+
+#: ../corvius/functions.php:190
+msgid "Footer Middle Area Widget 2"
+msgstr ""
+
+#: ../corvius/functions.php:192
+msgid "The second widget area in the middle area of the footer"
+msgstr ""
+
+#: ../corvius/functions.php:200
+msgid "Footer Middle Area Widget 3"
+msgstr ""
+
+#: ../corvius/functions.php:202
+msgid "The third widget area in the middle area of the footer"
+msgstr ""
+
+#: ../corvius/functions.php:210
+msgid "Footer Bottom Area Widget"
+msgstr ""
+
+#: ../corvius/functions.php:212
+msgid "The widget area for the bottom area of the footer's left side"
+msgstr ""
+
+#: ../corvius/functions.php:220
+msgid "Contact Page Widget"
+msgstr ""
+
+#: ../corvius/functions.php:222
+msgid "The widget area from the right of the contact form"
+msgstr ""
+
+#: ../corvius/functions.php:361
+msgid "Search for:"
+msgstr ""
+
+#: ../corvius/loop.php:10
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../corvius/loop.php:31
+#: ../corvius/template-blog.php:49
+#: ../corvius/template-blog.php:67
+msgid "Continue Reading..."
+msgstr ""
+
+#: ../corvius/page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: ../corvius/page.php:23
+#: ../corvius/single-project.php:131
+msgid "Edit Page &rarr;"
+msgstr ""
+
+#: ../corvius/search.php:42
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../corvius/search.php:52
+msgid "Nothing Found"
+msgstr ""
+
+#: ../corvius/search.php:53
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: ../corvius/single-project.php:68
+msgid "Author:"
+msgstr ""
+
+#: ../corvius/single-project.php:70
+msgid "Date:"
+msgstr ""
+
+#: ../corvius/single-project.php:72
+msgid "Client:"
+msgstr ""
+
+#: ../corvius/single-project.php:74
+msgid "URL:"
+msgstr ""
+
+#: ../corvius/single-project.php:84
+msgid "Related Projects"
+msgstr ""
+
+#: ../corvius/single.php:39
+msgid "Edit Post &rarr;"
+msgstr ""
+
+#: ../corvius/tag.php:30
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../corvius/template-portfolio.php:23
+msgid "All"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:18
+msgid "Slider Options"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:26
+msgid "Slider:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:27
+msgid "Choose a slider for this homepage"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:30
+msgid "Parallaxy Slider"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:30
+msgid "Circles Slider"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:30
+msgid "Fading Slider"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:36
+msgid "Layout Options"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:44
+msgid "Type:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:45
+msgid "Choose a layout for this post/page"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:48
+msgid "No Sidebar (full width)"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:48
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:51
+msgid "Sidebar:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:52
+msgid "Choose a sidebar for this post/page"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:61
+msgid "Tagline Options"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:69
+msgid "Tagline"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:70
+msgid "Write a tagline for this page. Leave empty if you want to use the page's title"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:75
+msgid "Right Side"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:76
+msgid "Select some type of content for the right side of the header"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:79
+#: ../corvius/includes/portfolio.php:112
+msgid "None"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:79
+msgid "Call to action button"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:79
+msgid "Search form"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:82
+msgid "If you select a Call to action(CAT) button for the right side of the header, you need to set it's parameters below"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:100
+msgid "Project Info"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:101
+msgid "This is some info on the project, which will appear in the right side of the content. If you want to omit a field just leave it empty."
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:132
+msgid "Project Images"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:133
+msgid "You can upload up to 4 images to use as a slideshow for the current project. If you upload only one image, the slideshow will be replaced with that static image."
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:141
+msgid "Image 1:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:143
+#: ../corvius/includes/metaboxes.php:149
+#: ../corvius/includes/metaboxes.php:155
+#: ../corvius/includes/metaboxes.php:161
+msgid "932px x unlimited"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:147
+msgid "Image 2:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:153
+msgid "Image 3:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:159
+msgid "Image 4:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:168
+msgid "Project Video"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:176
+msgid "Video height:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:177
+msgid "The video's height (eg. 524)"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:182
+msgid "Video Poster:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:183
+msgid "The preview image"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:188
+msgid "Path to *.OGV file:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:193
+msgid "Path to *.MP4 file:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:198
+msgid "Path to *.WEBM file:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:203
+msgid "Youtube or Vimeo embed frame:"
+msgstr ""
+
+#: ../corvius/includes/metaboxes.php:204
+msgid "If you wish to add a custom video from Youtube or Vimeo, just write the embed code here."
+msgstr ""
+
+#: ../corvius/includes/newsletter.php:35
+msgid "Newsletter"
+msgstr ""
+
+#: ../corvius/includes/newsletter.php:39
+#: ../corvius/includes/newsletter.php:91
+msgid "Copy all email addresses to the clipboard"
+msgstr ""
+
+#: ../corvius/includes/newsletter.php:40
+#: ../corvius/includes/newsletter.php:92
+msgid "Delete all email addresses"
+msgstr ""
+
+#: ../corvius/includes/newsletter.php:48
+msgid "Email Address"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:25
+msgid "Portfolio"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:26
+msgid "Project"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:27
+#: ../corvius/includes/portfolio.php:30
+msgid "Add New"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:28
+msgid "Add New Project"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:29
+msgid "Edit Project"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:31
+msgid "View Project"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:32
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:33
+msgid "No projects found"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:34
+msgid "No projects items found in trash"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:93
+msgid "Date"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:155
+msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:156
+msgid "<strong>Title</strong> - Enter a title for your post. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:157
+msgid "<strong>Post editor</strong> - Enter the text for your post. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your post text. You can insert media files by clicking the icons above the post editor and following the directions. You can go the distraction-free writing screen, new in 3.2, via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular post editor."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:158
+msgid "<strong>Publish</strong> - You can set the terms of publishing your post in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a post or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a post to be published in the future or backdate a post."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:159
+msgid "<strong>Post Format</strong> - This designates how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Please refer to the Codex for <a href=\"http://codex.wordpress.org/Post_Formats#Supported_Formats\">descriptions of each post format</a>. Your theme could enable all or some of 10 possible formats."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:160
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your post without inserting it. This is usually useful only if your theme makes use of the featured image as a post thumbnail on the home page, a custom header, etc."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:161
+msgid "<strong>Send Trackbacks</strong> - Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:162
+msgid "<strong>Discussion</strong> - You can turn comments and pings on or off, and if there are comments on the post, you can see them here and moderate them."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:163
+#: ../corvius/includes/portfolio.php:183
+msgid "For more information:"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:164
+msgid "<a href=\"http://codex.wordpress.org/Posts_Add_New_Screen\" target=\"_blank\">Documentation on Writing and Editing Posts</a>"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:165
+#: ../corvius/includes/portfolio.php:185
+msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</a>"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:168
+msgid "You can customize the display of this screen in a number of ways:"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:170
+msgid "You can hide/display columns based on your needs and decide how many posts to list per screen using the Screen Options tab."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:171
+msgid "You can filter the list of posts by post status using the text links in the upper left to show All, Published, Draft, or Trashed posts. The default view is to show all posts."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:172
+msgid "You can view posts in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:173
+msgid "You can refine the list to show only posts in a specific category or from a specific month by using the dropdown menus above the posts list. Click the Filter button after making your selection. You also can refine the list by clicking on the post author, category or tag in the posts list."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:175
+msgid "Hovering over a row in the posts list will display action links that allow you to manage your post. You can perform the following actions:"
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:177
+msgid "Edit takes you to the editing screen for that post. You can also reach that screen by clicking on the post title."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:178
+msgid "Quick Edit provides inline access to the metadata of your post, allowing you to update post details without leaving this screen."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:179
+msgid "Trash removes your post from this list and places it in the trash, from which you can permanently delete it."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:180
+msgid "Preview will show you what your draft post will look like if you publish it. View will take you to your live site to view the post. Which link is available depends on your post&#8217;s status."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:182
+msgid "You can also edit multiple posts at once. Select the posts you want to edit using the checkboxes, select Edit from the Bulk Actions menu and click Apply. You will be able to change the metadata (categories, author, etc.) for all selected posts at once. To remove a post from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+
+#: ../corvius/includes/portfolio.php:184
+msgid "<a href=\"http://codex.wordpress.org/Posts_Screen\" target=\"_blank\">Documentation on Managing Posts</a>"
+msgstr ""
+
+#: ../corvius/includes/widget.php:84
+#: ../corvius/includes/widget.php:255
+#: ../corvius/includes/widget.php:370
+#: ../corvius/includes/widget.php:482
+#: ../corvius/includes/widget.php:558
+msgid "Title:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:89
+msgid "Username:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:94
+msgid "Button:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:99
+msgid "Intro:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:171
+msgid " views"
+msgstr ""
+
+#: ../corvius/includes/widget.php:209
+msgid " comments"
+msgstr ""
+
+#: ../corvius/includes/widget.php:260
+msgid "Popular posts title:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:265
+msgid "Latest posts title:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:270
+msgid "Comments posts title:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:275
+msgid "Show number of posts/comments:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:375
+msgid "Text:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:380
+msgid "Phone:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:385
+msgid "Mail:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:390
+msgid "Address:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:395
+msgid "Icons:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:487
+msgid "Show number of posts:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:563
+msgid "Flickr Username:"
+msgstr ""
+
+#: ../corvius/includes/widget.php:568
+msgid "Number of images:"
+msgstr ""
+
+#: ../corvius/includes/rb_columns/rb_columns_panel.php:12
+msgid "Insert Columns"
+msgstr ""
+
+#: ../corvius/includes/rb_columns/rb_columns_panel.php:71
+#: ../corvius/includes/rb_shortcodes/rb_shortcodes_panel.php:653
+msgid "Insert"
+msgstr ""
+
+#: ../corvius/includes/rb_shortcodes/rb_shortcodes_panel.php:12
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../corvius/option-tree/classes/class.admin.php:1507
+msgid "Options"
+msgstr ""
+
+#: ../corvius/option-tree/classes/class.admin.php:1585
+msgid "Somebody"
+msgstr ""
+
+#: ../corvius/option-tree/classes/class.admin.php:1586
+msgid "Theme Options"
+msgstr ""
+
+#: ../corvius/option-tree/classes/class.admin.php:1586
+msgid "Settings"
+msgstr ""
+
+#: ../corvius/option-tree/classes/class.admin.php:1588
+#, php-format
+msgid "Warning: %s is currently editing the %s."
+msgstr ""
+
+#: ../corvius/option-tree/classes/class.admin.php:1688
+msgid "Show Settings &amp; Docs"
+msgstr ""
+
+#: ../corvius/option-tree/classes/class.admin.php:1691
+msgid "Yes"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/options.php:18
+msgid "Changelog"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/options.php:19
+msgid "Theme Docs"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/options.php:20
+msgid "Support Forums"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/options.php:23
+#: ../corvius/option-tree/front-end/options.php:118
+msgid "Save All Changes"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/options.php:29
+msgid "New Layout"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/options.php:36
+msgid "Activate Layout"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/options.php:60
+msgid "Reload XML"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/options.php:117
+msgid "Reset Options"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/settings.php:213
+msgid "Import XML"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/settings.php:230
+msgid "Import Data"
+msgstr ""
+
+#: ../corvius/option-tree/front-end/settings.php:247
+msgid "Import Layouts"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/404.php:13
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/404.php:17
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/author.php:11
+#: ../gridlocked-package/gridlocked/category.php:11
+#: ../gridlocked-package/gridlocked/date.php:11
+#: ../gridlocked-package/gridlocked/index.php:13
+#: ../gridlocked-package/gridlocked/search.php:11
+#: ../gridlocked-package/gridlocked/tag.php:11
+msgid "No more posts available."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/author.php:44
+#: ../gridlocked-package/gridlocked/category.php:44
+#: ../gridlocked-package/gridlocked/date.php:44
+#: ../gridlocked-package/gridlocked/index.php:46
+#: ../gridlocked-package/gridlocked/search.php:44
+#: ../gridlocked-package/gridlocked/tag.php:44
+msgid "Next Posts &rarr;"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/author.php:45
+#: ../gridlocked-package/gridlocked/category.php:45
+#: ../gridlocked-package/gridlocked/date.php:45
+#: ../gridlocked-package/gridlocked/index.php:47
+#: ../gridlocked-package/gridlocked/search.php:45
+#: ../gridlocked-package/gridlocked/tag.php:45
+msgid "&larr; Previous Posts"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/author.php:56
+#: ../gridlocked-package/gridlocked/category.php:56
+#: ../gridlocked-package/gridlocked/date.php:56
+#: ../gridlocked-package/gridlocked/index.php:58
+#: ../gridlocked-package/gridlocked/search.php:56
+#: ../gridlocked-package/gridlocked/tag.php:56
+msgid "Load More..."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/author.php:61
+#: ../gridlocked-package/gridlocked/category.php:61
+#: ../gridlocked-package/gridlocked/date.php:61
+#: ../gridlocked-package/gridlocked/index.php:63
+#: ../gridlocked-package/gridlocked/search.php:61
+#: ../gridlocked-package/gridlocked/tag.php:61
+msgid "Remaining"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:22
+msgid "No Comments"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:22
+msgid "One Comment"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:22
+msgid "% Comments"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:34
+msgid "Trackbacks for this post"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:56
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:82
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:91
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:98
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:98
+msgid "Log out of this account"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:103
+msgid "Name"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:103
+#: ../gridlocked-package/gridlocked/comments.php:106
+msgid "*"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:106
+msgid "Email"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:106
+msgid "(never published)"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:109
+msgid "Website"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/comments.php:117
+msgid "Submit Comment"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/footer.php:11
+msgid "Powered by"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions.php:320
+msgid "(Author)"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions.php:324
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/header.php:72
+msgid "Open Widget Area"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/searchform.php:4
+msgid "Type and hit enter"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/sidebar.php:51
+#: ../gridlocked-package/gridlocked/single-portfolio.php:252
+msgid "Skills"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/sidebar.php:63
+msgid "Back to Top"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/single-portfolio.php:234
+msgid "[Edit]"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/single-portfolio.php:272
+#: ../gridlocked-package/gridlocked/single-portfolio.php:278
+msgid "%link"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/single-portfolio.php:275
+msgid "Back to Portfolio"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-archives.php:26
+msgid "Last 30 Posts"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-archives.php:35
+msgid "Archives by Month:"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-archives.php:41
+msgid "Archives by Subject:"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-contact.php:76
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-contact.php:82
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-contact.php:87
+msgid "Name:"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-contact.php:94
+msgid "Email:"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-contact.php:101
+msgid "Message:"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/template-contact.php:110
+msgid "Send Email"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/admin/admin-interface.php:686
+msgid "All Categories"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/admin/admin-interface.php:687
+msgid "No Categories"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/admin/admin-interface.php:733
+msgid "All "
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/admin/admin-interface.php:734
+msgid "No "
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:71
+msgid "General Settings"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:75
+msgid "Control and configure the general setup of your theme. Upload your preferred logo, setup your feeds and insert your analytics tracking code."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:78
+msgid "Enable Plain Text Logo"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:79
+msgid "Check this to enable a plain text logo rather than an image."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:84
+msgid "Custom Logo"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:85
+msgid "Upload a logo for your theme, or specify the image address of your online logo. (http://example.com/logo.png)"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:90
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:91
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:97
+msgid "This will appear underneath your logo."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:103
+msgid "Contact Form Email Address"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:104
+msgid "Enter the email address where you'd like to receive emails from the contact form, or leave blank to use admin email."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:109
+msgid "FeedBurner URL"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:110
+msgid "Enter your full FeedBurner URL (or any other preferred feed URL) if you wish to use FeedBurner over the standard WordPress Feed e.g. http://feeds.feedburner.com/yoururlhere"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:115
+msgid "Tracking Code"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:116
+msgid "Paste your Google Analytics (or other) tracking code here. It will be inserted before the closing body tag of your theme."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:121
+msgid "Footer Copy"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:122
+msgid "Insert some text to display in the footer."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:130
+msgid "Styling Options"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:134
+msgid "Configure the visual appearance of you theme by selecting a stylesheet if applicable, choosing your overall layout and inserting any custom CSS necessary."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:137
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:138
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:144
+msgid "Custom CSS"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:145
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:150
+msgid "Enable Widget Overlay"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:151
+msgid "Check this to enable the widget overlay in the header."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:157
+msgid "Post Options"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:161
+msgid "Here you can configure how you would like your posts to function."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:164
+msgid "Comments Caption"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:165
+msgid "This snippet will display near the comments."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:170
+msgid "Respond Caption"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:171
+msgid "This snippet will display near the comments respond form."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:177
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:181
+msgid "Here you can configure how you would like your portfolio to function."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:184
+msgid "Select the page you're using as a portfolio"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-options.php:185
+msgid "This setting is needed for some background functionality."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:18
+msgid "Image & Display Settings"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:24
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:25
+msgid "Choose the type of portfolio post you wish to display."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:32
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:57
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:33
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:58
+msgid "Check this to enable the lightbox."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:40
+msgid "Image Thumbnail"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:41
+msgid "230px x 170px"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:54
+msgid "Image 1 Height"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:55
+msgid "You need to define a height of the first image to enable the autoHeight feature. E.g. 500"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:61
+msgid "Image 1"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:62
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:76
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:90
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:104
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:118
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:132
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:146
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:160
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:174
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:188
+msgid "550px x unlimited"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:75
+msgid "Image 2"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:89
+msgid "Image 3"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:103
+msgid "Image 4"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:117
+msgid "Image 5"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:131
+msgid "Image6"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:145
+msgid "Image 7"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:159
+msgid "Image 8"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:173
+msgid "Image 9"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:187
+msgid "Image 10"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:206
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:95
+msgid "Video Settings"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:211
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:100
+msgid "Video Height"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:212
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:101
+msgid "The video height (e.g. 500)."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:217
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:110
+msgid "M4V File URL"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:218
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:111
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:223
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:115
+msgid "OGV File URL"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:224
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:116
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:229
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:120
+msgid "Poster Image"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:230
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:121
+msgid "The preivew image."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:236
+msgid "Embedded Code"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:237
+msgid "If you are using something other than self hosted video such as Youtube or Vimeo, paste the embed code here. Width is best at 550px with any height.<br><br> This field will override the above."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:249
+msgid "Additional Info Settings"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:255
+msgid "Portfolio Caption"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:262
+msgid "External Link"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:274
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:73
+msgid "Audio Settings"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:279
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:78
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:280
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:79
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:285
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:83
+msgid "OGA File URL"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:286
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:84
+msgid "The URL to the .oga, .ogg audio file"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:325
+msgid "Upload an image and then click \"insert into post\". To delete an image, simply clear the field."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:388
+#: ../gridlocked-package/gridlocked/functions/theme-portfoliometa.php:437
+msgid "These settings enable you to embed videos into your portfolio pages."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:19
+msgid "Quote Settings"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:24
+msgid "The Quote"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:25
+msgid "Write your quote in this field."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:36
+msgid "Link Settings"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:41
+msgid "The URL"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:42
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:52
+msgid "Image Settings"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:105
+msgid "Video Height Large"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:106
+msgid "The video height (e.g. 500) for the post page."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:125
+msgid "Embeded Code"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:126
+msgid "If you're not using self hosted video then you can include embeded code here. Best viewed at 360px wide."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:130
+msgid "Lage Embeded Code"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:131
+msgid "This should be the same as the above code but at a width of 550px. This is displayed on the post page itself."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:228
+msgid "Note that for audio, you must supply both MP3 and OGG files to satisfy all browsers."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-postmeta.php:270
+msgid "Note that for video, you must supply an M4V file to satisfy both HTML5 and Flash solutions. The optional OGV format is used to increase x-browser support for HTML5 browsers such as Firefox and Opera."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:21
+msgid "No portfolio found"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:22
+msgid "No portfolio found in Trash"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:40
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:53
+msgid "portfolio"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:48
+msgid "Skill Types"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:49
+msgid "Skill Type"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:53
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:73
+msgid "skill-type"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:61
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:62
+#: ../gridlocked-package/gridlocked/functions/theme-posttypes.php:72
+msgid "type"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-flickr.php:36
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-flickr.php:47
+msgid "Custom Flickr Photos"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-flickr.php:135
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-flickr.php:141
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-flickr.php:151
+msgid "Type (user or group):"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-flickr.php:160
+msgid "Display (random or latest):"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-tweets.php:41
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-tweets.php:47
+msgid "Custom Latest Tweets"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-tweets.php:145
+msgid "Twitter Username e.g. ormanclark"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-tweets.php:151
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/functions/widget-tweets.php:157
+msgid "Follow Text e.g. Follow me on Twitter"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/includes/audio.php:37
+#: ../gridlocked-package/gridlocked/includes/gallery.php:52
+#: ../gridlocked-package/gridlocked/includes/image.php:52
+#: ../gridlocked-package/gridlocked/includes/link.php:8
+#: ../gridlocked-package/gridlocked/includes/post-meta.php:5
+#: ../gridlocked-package/gridlocked/includes/standard.php:6
+#: ../gridlocked-package/gridlocked/includes/video.php:70
+msgid "Permalink to:"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/includes/post-meta.php:7
+msgid "ago"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/includes/post-meta.php:18
+msgid "<span class=\"icon\"></span> 0"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/includes/post-meta.php:18
+msgid "<span class=\"icon\"></span> 1"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/includes/post-meta.php:18
+msgid "<span class=\"icon\"></span> %"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:9
+msgid "Button URL"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:10
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:14
+msgid "Button's Style"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:15
+msgid "Select the button's style, ie the buttons colour"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:31
+msgid "Button's Size"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:32
+msgid "Select the button's size"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:41
+msgid "Button's Text"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:42
+msgid "Add the button's text"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:46
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:54
+msgid "Alert's Style"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:55
+msgid "Select the slter's style, ie the alert colour"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:66
+msgid "Alert's Text"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:67
+msgid "Add the alert's text"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:72
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:80
+msgid "Toggle Content Title"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:81
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:87
+msgid "Toggle Content"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:88
+msgid "Add the toggle content."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:93
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:101
+msgid "Tab Titles"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:102
+msgid "Please enter the tab titles here, seperating each by a comma. They must match the tabs that are created below."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:107
+msgid "Insert Column Shortcode"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:114
+msgid "Tab Title"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:115
+msgid "Title of the tab"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:120
+msgid "Tab Content"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:121
+msgid "Add the tabs content"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:125
+msgid "Add Tab"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:133
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:141
+msgid "Column Type"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:142
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:171
+msgid "Column Content"
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:172
+msgid "Add the column content."
+msgstr ""
+
+#: ../gridlocked-package/gridlocked/tinymce/config.php:176
+msgid "Add Column"
+msgstr ""
+
+#: ../twentyeleven/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentyeleven/404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#: ../twentyeleven/404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../twentyeleven/404.php:36
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../twentyeleven/author.php:49
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentyeleven/comments.php:40
+#: ../twentyeleven/comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:17
+msgid "Aside"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:22
+#: ../twentyeleven/content-image.php:21
+#: ../twentyeleven/content-image.php:64
+#: ../twentyeleven/content-link.php:22
+#: ../twentyeleven/content-quote.php:24
+#: ../twentyeleven/content-status.php:21
+#: ../twentyeleven/content.php:30
+msgid "Reply"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:33
+#: ../twentyeleven/content-gallery.php:32
+#: ../twentyeleven/content-image.php:27
+#: ../twentyeleven/content-link.php:33
+#: ../twentyeleven/content-quote.php:35
+#: ../twentyeleven/content-status.php:34
+#: ../twentyeleven/content.php:41
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:42
+#: ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69
+#: ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:77
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:42
+#: ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69
+#: ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:77
+msgid "<b>1</b> Reply"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:42
+#: ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69
+#: ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:77
+msgid "<b>%</b> Replies"
+msgstr ""
+
+#: ../twentyeleven/content-aside.php:44
+#: ../twentyeleven/content-featured.php:45
+#: ../twentyeleven/content-gallery.php:90
+#: ../twentyeleven/content-image.php:68
+#: ../twentyeleven/content-intro.php:19
+#: ../twentyeleven/content-link.php:44
+#: ../twentyeleven/content-page.php:21
+#: ../twentyeleven/content-quote.php:72
+#: ../twentyeleven/content-single.php:52
+#: ../twentyeleven/content-status.php:45
+#: ../twentyeleven/content.php:80
+msgid "Edit"
+msgstr ""
+
+#: ../twentyeleven/content-featured.php:29
+#: ../twentyeleven/content-featured.php:38
+#: ../twentyeleven/content-gallery.php:62
+#: ../twentyeleven/content-gallery.php:72
+#: ../twentyeleven/content-image.php:47
+#: ../twentyeleven/content-image.php:56
+#: ../twentyeleven/content-quote.php:44
+#: ../twentyeleven/content-quote.php:54
+#: ../twentyeleven/content-single.php:30
+#: ../twentyeleven/content-single.php:33
+#: ../twentyeleven/content.php:51
+#: ../twentyeleven/content.php:61
+msgid ", "
+msgstr ""
+
+#: ../twentyeleven/content-featured.php:31
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-featured.php:33
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-gallery.php:17
+msgid "Gallery"
+msgstr ""
+
+#: ../twentyeleven/content-gallery.php:66
+#: ../twentyeleven/content-image.php:51
+#: ../twentyeleven/content-quote.php:48
+#: ../twentyeleven/content.php:55
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr ""
+
+#: ../twentyeleven/content-gallery.php:78
+#: ../twentyeleven/content-image.php:59
+#: ../twentyeleven/content-quote.php:60
+#: ../twentyeleven/content.php:67
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr ""
+
+#: ../twentyeleven/content-gallery.php:87
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../twentyeleven/content-image.php:16
+msgid "Image"
+msgstr ""
+
+#: ../twentyeleven/content-image.php:34
+#, php-format
+msgid "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr ""
+
+#: ../twentyeleven/content-image.php:64
+msgid "<strong>1</strong> Reply"
+msgstr ""
+
+#: ../twentyeleven/content-image.php:64
+msgid "<strong>%</strong> Replies"
+msgstr ""
+
+#: ../twentyeleven/content-link.php:17
+msgid "Link"
+msgstr ""
+
+#: ../twentyeleven/content-quote.php:15
+msgid "Quote"
+msgstr ""
+
+#: ../twentyeleven/content-single.php:35
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-single.php:37
+#, php-format
+msgid "This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-single.php:39
+#, php-format
+msgid "This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyeleven/content-single.php:64
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/content.php:16
+msgid "Featured"
+msgstr ""
+
+#: ../twentyeleven/footer.php:26
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyeleven/footer.php:26
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyeleven/functions.php:149
+msgid "Wheel"
+msgstr ""
+
+#: ../twentyeleven/functions.php:155
+msgid "Shore"
+msgstr ""
+
+#: ../twentyeleven/functions.php:161
+msgid "Trolley"
+msgstr ""
+
+#: ../twentyeleven/functions.php:167
+msgid "Pine Cone"
+msgstr ""
+
+#: ../twentyeleven/functions.php:173
+msgid "Chessboard"
+msgstr ""
+
+#: ../twentyeleven/functions.php:179
+msgid "Lanterns"
+msgstr ""
+
+#: ../twentyeleven/functions.php:185
+msgid "Willow"
+msgstr ""
+
+#: ../twentyeleven/functions.php:191
+msgid "Hanoi Plant"
+msgstr ""
+
+#: ../twentyeleven/functions.php:374
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentyeleven/functions.php:383
+msgid "Showcase Sidebar"
+msgstr ""
+
+#: ../twentyeleven/functions.php:385
+msgid "The sidebar for the optional Showcase Template"
+msgstr ""
+
+#: ../twentyeleven/functions.php:393
+msgid "Footer Area One"
+msgstr ""
+
+#: ../twentyeleven/functions.php:395
+#: ../twentyeleven/functions.php:405
+#: ../twentyeleven/functions.php:415
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: ../twentyeleven/functions.php:403
+msgid "Footer Area Two"
+msgstr ""
+
+#: ../twentyeleven/functions.php:413
+msgid "Footer Area Three"
+msgstr ""
+
+#: ../twentyeleven/functions.php:432
+#: ../twentyeleven/single.php:18
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentyeleven/functions.php:433
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentyeleven/functions.php:434
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/functions.php:520
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: ../twentyeleven/functions.php:544
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: ../twentyeleven/functions.php:562
+#, php-format
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../twentyeleven/header.php:113
+msgid "Main menu"
+msgstr ""
+
+#: ../twentyeleven/header.php:115
+msgid "Skip to primary content"
+msgstr ""
+
+#: ../twentyeleven/header.php:116
+msgid "Skip to secondary content"
+msgstr ""
+
+#: ../twentyeleven/image.php:18
+msgid "Image navigation"
+msgstr ""
+
+#: ../twentyeleven/image.php:19
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyeleven/image.php:20
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyeleven/image.php:30
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../twentyeleven/searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: ../twentyeleven/showcase.php:70
+msgid "Featured Post"
+msgstr ""
+
+#: ../twentyeleven/showcase.php:153
+msgid "Recent Posts"
+msgstr ""
+
+#: ../twentyeleven/sidebar.php:19
+msgid "Archives"
+msgstr ""
+
+#: ../twentyeleven/sidebar.php:26
+msgid "Meta"
+msgstr ""
+
+#: ../twentyeleven/single.php:19
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentyeleven/single.php:20
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:90
+msgid "Some themes provide customization options that are grouped together on a Theme Options screen. If you change themes, options may change or disappear, as they are theme-specific. Your current theme, Twenty Eleven, provides the following Theme Options:"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:92
+msgid "<strong>Color Scheme</strong>: You can choose a color palette of \"Light\" (light background with dark text) or \"Dark\" (dark background with light text) for your site."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:93
+msgid "<strong>Link Color</strong>: You can choose the color used for text links on your site. You can enter the HTML color or hex code, or you can choose visually by clicking the \"Select a Color\" button to pick from a color wheel."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:94
+msgid "<strong>Default Layout</strong>: You can choose if you want your site&#8217;s default layout to have a sidebar on the left, the right, or not at all."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:96
+msgid "Remember to click \"Save Changes\" to save any changes you have made to the theme options."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:98
+msgid "<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" target=\"_blank\">Documentation on Theme Options</a>"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:114
+msgid "Light"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:120
+msgid "Dark"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:138
+msgid "Content on left"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:143
+msgid "Content on right"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:148
+msgid "One-column, no sidebar"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:213
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:225
+#: ../twentyeleven/inc/theme-options.php:227
+#: ../twentyeleven/inc/theme-options.php:263
+msgid "Color Scheme"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:248
+#: ../twentyeleven/inc/theme-options.php:250
+msgid "Link Color"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:256
+#, php-format
+msgid "Default color: %s"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:261
+msgid "Default Layout"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:19
+msgid "Use this widget to list your recent Aside, Status, Quote, and Link posts"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:20
+msgid "Twenty Eleven Ephemera"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:52
+msgid "Ephemera"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:93
+#: ../twentyeleven/inc/widgets.php:109
+msgid "0 <span class=\"reply\">comments &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:93
+#: ../twentyeleven/inc/widgets.php:109
+msgid "1 <span class=\"reply\">comment &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:93
+#: ../twentyeleven/inc/widgets.php:109
+msgid "% <span class=\"reply\">comments &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:162
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyten/404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: ../twentyten/archive.php:33
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../twentyten/archive.php:35
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../twentyten/archive.php:37
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../twentyten/comments.php:41
+#: ../twentyten/comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../twentyten/comments.php:42
+#: ../twentyten/comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyten/footer.php:33
+#, php-format
+msgid "Proudly powered by %s."
+msgstr ""
+
+#: ../twentyten/functions.php:140
+msgid "Berries"
+msgstr ""
+
+#: ../twentyten/functions.php:146
+msgid "Cherry Blossoms"
+msgstr ""
+
+#: ../twentyten/functions.php:152
+msgid "Concave"
+msgstr ""
+
+#: ../twentyten/functions.php:158
+msgid "Fern"
+msgstr ""
+
+#: ../twentyten/functions.php:164
+msgid "Forest Floor"
+msgstr ""
+
+#: ../twentyten/functions.php:170
+msgid "Inkwell"
+msgstr ""
+
+#: ../twentyten/functions.php:176
+msgid "Path"
+msgstr ""
+
+#: ../twentyten/functions.php:182
+msgid "Sunset"
+msgstr ""
+
+#: ../twentyten/functions.php:330
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../twentyten/functions.php:376
+msgid "Primary Widget Area"
+msgstr ""
+
+#: ../twentyten/functions.php:378
+msgid "The primary widget area"
+msgstr ""
+
+#: ../twentyten/functions.php:387
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentyten/functions.php:389
+msgid "The secondary widget area"
+msgstr ""
+
+#: ../twentyten/functions.php:398
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: ../twentyten/functions.php:400
+msgid "The first footer widget area"
+msgstr ""
+
+#: ../twentyten/functions.php:409
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: ../twentyten/functions.php:411
+msgid "The second footer widget area"
+msgstr ""
+
+#: ../twentyten/functions.php:420
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: ../twentyten/functions.php:422
+msgid "The third footer widget area"
+msgstr ""
+
+#: ../twentyten/functions.php:431
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: ../twentyten/functions.php:433
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: ../twentyten/functions.php:467
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr ""
+
+#: ../twentyten/functions.php:497
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../twentyten/header.php:83
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyten/loop-attachment.php:21
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: ../twentyten/loop-attachment.php:23
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr ""
+
+#: ../twentyten/loop-attachment.php:32
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr ""
+
+#: ../twentyten/loop-attachment.php:43
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr ""
+
+#: ../twentyten/loop-attachment.php:53
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: ../twentyten/loop-attachment.php:56
+msgid "Link to full-size image"
+msgstr ""
+
+#: ../twentyten/loop.php:93
+#: ../twentyten/loop.php:96
+msgid "More Galleries"
+msgstr ""
+
+#: ../twentyten/loop.php:99
+#: ../twentyten/loop.php:122
+#: ../twentyten/loop.php:164
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyten/loop.php:99
+#: ../twentyten/loop.php:122
+#: ../twentyten/loop.php:164
+msgid "1 Comment"
+msgstr ""
+

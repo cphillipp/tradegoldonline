@@ -1,0 +1,99 @@
+.customDesc {
+	color:#777;
+	display:block;
+	font-style:italic;
+	margin-top:5px;
+}
+#menu-posts-portfolio .wp-menu-image {
+	background:url(../includes/images/portfolio-icon.png) no-repeat scroll 4px 5px transparent !important
+}
+#menu-posts-portfolio:hover .wp-menu-image {
+	background:url(../includes/images/portfolio-icon.png) no-repeat scroll -21px 5px transparent !important
+}
+#menu-posts-portfolio.wp-has-current-submenu .wp-menu-image {
+	background:url(../includes/images/portfolio-icon.png) no-repeat scroll -46px 5px transparent !important
+}
+
+#side-sortables .labelField {
+	width:100% !important;
+}
+#normal-sortables .labelField {
+	width:40% !important;
+	padding-right:10px;
+}
+.custom_preview_image {
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+.metaDescription {
+	font-style:italic;
+	margin:15px 0 15px 3px;
+	line-height:20px;
+}
+.metaTable {
+	background:#FAFAFA;
+	border:1px solid #DDD;
+	border-radius:3px;
+	box-shadow:1px 1px 0px #DFDFDF;
+}
+.metaTable > div {
+	padding:10px;
+	border-top:1px solid #DDD;
+}
+.metaTable > div:first-child {
+	border-top:none;
+}
+
+.leftSide {
+	float:left;
+}
+.rightSide {
+	float:left;
+	width:55%;
+}
+
+#side-sortables .rightSide {
+	width:100%;
+}
+#side-sortables .customDesc {
+	margin-bottom:10px;
+}
+
+.metaTable input:not(.button), .metaTable textarea, .metaTable select {
+	width:100%;
+}
+
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+.children:before, .children:after { content: ""; display: table; }
+.children:after { clear: both; }
+.children { zoom: 1; }
+
+.icon32-newsletter {
+	background:url(../images/mailIcon.png) no-repeat -11px -11px transparent;        
+    float: left;
+    height: 44px;
+    margin: 7px -13px 0 0;
+    width: 64px;
+}
+.newsletter table {
+	width:100%;
+	max-width:750px;
+}
+.newsletter {
+	margin-left:15px;
+}
+.newsletter table tbody tr:nth-child(odd){
+	background:#FCFCFC;
+}
+.newsletter thead tr th:first-child {
+	padding-left:5px;
+}
+.newsletter textarea {
+	width:100%;
+	max-width:750px;
+	height:150px;
+}

@@ -1,0 +1,24 @@
+
+
+/* BEGIN rb_custom_css */
+
+/* END rb_custom_css */
+
+
+/* CUSTOM CSS - ADDED LATER AS UPDATES */
+body {
+	-moz-font-feature-settings: "liga=0";
+}
+.ie7 .button.large {
+	padding-bottom:0;
+	height:33px;
+}
+.ie7 .button.small {
+	height:25px;
+}
+.ie7 .button.normal {
+	height:27px;
+}
+.ie7 .evoTag {
+	padding-top:0;
+}

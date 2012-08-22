@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<wp_debug3_option_tree>
+  <row>
+    <id>1</id>
+    <item_id>general_default</item_id>
+    <item_title>General Options</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>2</id>
+    <item_id>rb_logo_path</item_id>
+    <item_title>Logo</item_title>
+    <item_desc>Upload a logo for your site. It should not exceed 50-60px.</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>3</id>
+    <item_id>rb_favicon</item_id>
+    <item_title>Favicon</item_title>
+    <item_desc>Upload a 16x16 .ico image as your favicon.</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>4</id>
+    <item_id>rb_search_tagline</item_id>
+    <item_title>Archives &amp;amp; Search Tagline</item_title>
+    <item_desc>Write a tagline for the Search Results &amp;amp; Archives pages.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>5</id>
+    <item_id>rb_404_tagline</item_id>
+    <item_title>404 Tagline</item_title>
+    <item_desc>Write a tagline for the 404 error page.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>6</id>
+    <item_id>rb_google_code</item_id>
+    <item_title>Tracking Code</item_title>
+    <item_desc>Paste your Google Analytics (or other) tracking code here. It will be inserted before the closing body tag of your theme.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>5</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>7</id>
+    <item_id>rb_custom_css</item_id>
+    <item_title>Custom CSS</item_title>
+    <item_desc>Insert some custom CSS code in here. Remember to use &amp;lt;strong&amp;gt;!important&amp;lt;/strong&amp;gt; if the styles don&amp;#039;t apply.</item_desc>
+    <item_type>css</item_type>
+    <item_options>5</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>8</id>
+    <item_id>colors</item_id>
+    <item_title>Color Scheme</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>9</id>
+    <item_id>rb_note1</item_id>
+    <item_title>Quick note</item_title>
+    <item_desc>The color scheme of this theme was carefully crafted, so if you want to keep it balanced, you should try changing only the hue of the color accents.</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>10</id>
+    <item_id>rb_color_accent</item_id>
+    <item_title>Main Color Accent</item_title>
+    <item_desc>Select a color for the website&amp;#039;s accent. This color will define the most part of the theme.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>11</id>
+    <item_id>rb_color_accent2</item_id>
+    <item_title>Secondary Color Accent</item_title>
+    <item_desc>Select a color for some other website accents. It should be related to the main color accent, only lighter.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>12</id>
+    <item_id>rb_color_marked</item_id>
+    <item_title>Text Color Accent</item_title>
+    <item_desc>Select a color for some of the colored text areas, such as some titles, hovers, marked text, etc..</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>13</id>
+    <item_id>rb_color_slider</item_id>
+    <item_title>Slider Color Accent</item_title>
+    <item_desc>Select a color for the slider&amp;#039;s headings and buttons. It applies to all sliders.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>14</id>
+    <item_id>rb_color_footer</item_id>
+    <item_title>Footer Accent</item_title>
+    <item_desc>Select a color for the middle area of the footer.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>rb_color_link</item_id>
+    <item_title>Link Color</item_title>
+    <item_desc>Select a color for the links. This color will affect all links and some bold text areas.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>16</id>
+    <item_id>rb_color_hover</item_id>
+    <item_title>Link Hover Color</item_title>
+    <item_desc>Select a color for the link&amp;#039;s hover state.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>17</id>
+    <item_id>sidebars</item_id>
+    <item_title>Sidebars</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>18</id>
+    <item_id>rb_sidebars</item_id>
+    <item_title>Sidebars</item_title>
+    <item_desc>Add as many sidebars as you want. You will later be able to add widgets to the sidebar and to set the sidebar to work for a specific post/page.</item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>19</id>
+    <item_id>footer_options</item_id>
+    <item_title>Footer Options</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>20</id>
+    <item_id>rb_footer_text</item_id>
+    <item_title>Footer text</item_title>
+    <item_desc>Write some text for the footer bottom area.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>21</id>
+    <item_id>rb_newsletter_enabled</item_id>
+    <item_title>Enable newsletter widget</item_title>
+    <item_desc>Check this if you want to enable the newsletter widget, which is at the top of the footer.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Enable widget</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>22</id>
+    <item_id>rb_newsletter_title</item_id>
+    <item_title>Newsletter widget title</item_title>
+    <item_desc>Write a short title for the widget.</item_desc>
+    <item_type>input</item_type>
+    <item_options>Enable widget</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>23</id>
+    <item_id>rb_newsletter_text</item_id>
+    <item_title>Newsletter widget text</item_title>
+    <item_desc>Write a short line of &amp;quot;call to action text&amp;quot; for the widget.</item_desc>
+    <item_type>input</item_type>
+    <item_options>Enable widget</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>24</id>
+    <item_id>rb_newsletter_button</item_id>
+    <item_title>Newsletter widget button</item_title>
+    <item_desc>Write a label for the widget&amp;#039;s submit button.</item_desc>
+    <item_type>input</item_type>
+    <item_options>Enable widget</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>25</id>
+    <item_id>rb_newsletter_success</item_id>
+    <item_title>Newsletter widget success text</item_title>
+    <item_desc>Write a short line of text as a success message for the widget.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>26</id>
+    <item_id>contact_page</item_id>
+    <item_title>Contact Page</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>27</id>
+    <item_id>rb_form_your_email</item_id>
+    <item_title>Your email address</item_title>
+    <item_desc>Write your email address, so that users can contact you using the contact form.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>28</id>
+    <item_id>rb_form_title</item_id>
+    <item_title>Form Title</item_title>
+    <item_desc>Write a title to appear above the form.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>29</id>
+    <item_id>rb_form_name_label</item_id>
+    <item_title>Form Name Label</item_title>
+    <item_desc>Write a label for the form&amp;#039;s name field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>30</id>
+    <item_id>rb_form_email_label</item_id>
+    <item_title>Form Email Label</item_title>
+    <item_desc>Write a label for the form&amp;#039;s email field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>31</id>
+    <item_id>rb_form_subject_label</item_id>
+    <item_title>Form Subject Label</item_title>
+    <item_desc>Write a label for the form&amp;#039;s subject field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>32</id>
+    <item_id>rb_form_message_label</item_id>
+    <item_title>Form Message Label</item_title>
+    <item_desc>Write a label for the form&amp;#039;s message field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>33</id>
+    <item_id>rb_form_button_label</item_id>
+    <item_title>Form Button Label</item_title>
+    <item_desc>Write a label for the form&amp;#039;s submit button.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>34</id>
+    <item_id>rb_form_error</item_id>
+    <item_title>Form Error Message</item_title>
+    <item_desc>Write some text to show when a user doesn&amp;#039;t fill all fields or the information is incorrectly written.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>35</id>
+    <item_id>rb_form_success</item_id>
+    <item_title>Form Success Message</item_title>
+    <item_desc>Write some text to display after a user sends you an email(html allowed).</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>5</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>36</id>
+    <item_id>slider</item_id>
+    <item_title>Parallaxy Slider</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>37</id>
+    <item_id>rb_parallaxy_back</item_id>
+    <item_title>Background</item_title>
+    <item_desc>Choose a background for this slider. It has to be a &amp;lt;strong&amp;gt;height&amp;lt;/strong&amp;gt; of &amp;lt;strong&amp;gt;400px&amp;lt;/strong&amp;gt;.. If you don&amp;#039;t choose a background, the default one will be used.</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>38</id>
+    <item_id>rb_parallaxy_slides</item_id>
+    <item_title>Add slides</item_title>
+    <item_desc>Add some slides to this slider. Images should have a height of &amp;lt;strong&amp;gt;385px&amp;lt;/strong&amp;gt;.</item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>39</id>
+    <item_id>rb_parallaxy_timer</item_id>
+    <item_title>Slides timer</item_title>
+    <item_desc>Set the timer for this slider(milliseconds).</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>40</id>
+    <item_id>rb_note2</item_id>
+    <item_title>Quick note</item_title>
+    <item_desc>This slider allows you to have up to 2 call to action buttons in it. If you don&amp;#039;t want to use them, just leave the fields below empty.</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>41</id>
+    <item_id>rb_parallaxy_action11</item_id>
+    <item_title>Call to action #1 - Label</item_title>
+    <item_desc>Write a label for the first call to action button in the slider.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>42</id>
+    <item_id>rb_parallaxy_action12</item_id>
+    <item_title>Call to action #1 - Link</item_title>
+    <item_desc>Write a link for the first call to action button in the slider.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>43</id>
+    <item_id>rb_parallaxy_action3</item_id>
+    <item_title>Text between buttons</item_title>
+    <item_desc>Write some text that will appear between the two call to action buttons in the slider.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>44</id>
+    <item_id>rb_parallaxy_action21</item_id>
+    <item_title>Call to action #2 - Label</item_title>
+    <item_desc>Write a label for the second call to action button in the slider.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>45</id>
+    <item_id>rb_parallaxy_action22</item_id>
+    <item_title>Call to action #2 - Link</item_title>
+    <item_desc>Write a link for the second call to action button in the slider.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>46</id>
+    <item_id>circles_slider</item_id>
+    <item_title>Circles Slider</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>47</id>
+    <item_id>rb_circles_back</item_id>
+    <item_title>Background</item_title>
+    <item_desc>Choose a background for this slider. It has to be a &amp;lt;strong&amp;gt;height&amp;lt;/strong&amp;gt; of &amp;lt;strong&amp;gt;435px&amp;lt;/strong&amp;gt;.. If you don&amp;#039;t choose a background, the default one will be used.</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>48</id>
+    <item_id>rb_circles_slides</item_id>
+    <item_title>Add slides</item_title>
+    <item_desc>Add some slides to this slider. First image needs to be &amp;lt;strong&amp;gt;214 x 214 px&amp;lt;/strong&amp;gt;, while second image needs to be &amp;lt;strong&amp;gt;245 x 245 px&amp;lt;/strong&amp;gt;, and so on, alternating: one small, one big.</item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>49</id>
+    <item_id>rb_circles_timer</item_id>
+    <item_title>Slides timer</item_title>
+    <item_desc>Set the timer for this slider(milliseconds).</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>50</id>
+    <item_id>nivo_slider</item_id>
+    <item_title>Fading Slider</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>51</id>
+    <item_id>rb_nivo_back</item_id>
+    <item_title>Background</item_title>
+    <item_desc>Choose a background for this slider. It has to be a &amp;lt;strong&amp;gt;height&amp;lt;/strong&amp;gt; of &amp;lt;strong&amp;gt;435px&amp;lt;/strong&amp;gt;.. If you don&amp;#039;t choose a background, the default one will be used.</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>52</id>
+    <item_id>rb_nivo_slides</item_id>
+    <item_title>Add slides</item_title>
+    <item_desc>Add some slides to this slider. Images need to be &amp;lt;strong&amp;gt;940 x 335 px&amp;lt;/strong&amp;gt;.</item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>53</id>
+    <item_id>rb_nivo_timer</item_id>
+    <item_title>Slides timer</item_title>
+    <item_desc>Set the timer for this slider(milliseconds).</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+</wp_debug3_option_tree>
