@@ -162,7 +162,7 @@ a:hover, a:active, a:focus {
 /* Main menu */
 #top ul li {
      float: left;
-     margin-left: 20px;
+     margin-left: 0px;
      margin-top: 32px;
 	 position:relative;
 }
@@ -171,7 +171,7 @@ a:hover, a:active, a:focus {
      color: #FFFFFF;
      font-family: 'Vegur';
      font-size: 15px;
-    padding: 8px 18px;
+    padding: 8px 14px;
      text-shadow: none;
 }
 #top ul li a:hover, #top ul li a.selected {
@@ -3136,3 +3136,7 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 .left img.left {
 	float:none;
 }
+/* CUSTOM */
+/*.container_16 .grid_10 {width:640px;}
+.container_16 .prefix_1 {padding-left:5px;}
+.container_16 .grid_5 {width:275px;}*/

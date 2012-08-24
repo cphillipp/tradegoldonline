@@ -3,7 +3,7 @@
 if(isset($_POST['email'])) {
      
     // - Edit the lines below to fit your Email address and the desired Subject
-    $email_to = /*rb_form_your_email*/"support@rubenbristian.com"/*e*/;
+    $email_to = /*rb_form_your_email*/"youremail@domain.com"/*e*/;
     $email_subject = "Your email subject line";
 	
 	// - Do not edit below this line :)
