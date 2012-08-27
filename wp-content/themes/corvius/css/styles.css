@@ -1855,8 +1855,11 @@ background: none repeat scroll 0 0 #FFFFFF;
    
 /* Table desgin */
 table {
-	width:100%;
+	width:auto;
 	border-collapse:separate;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	overflow:hidden;
 }
 
 th {
@@ -1900,7 +1903,7 @@ td {
 	/*border-right:1px solid #D4D1C9;
 	border-bottom:1px solid #D4D1C9;*/
 	border-top:none;
-	background:#FFF;
+	background:#F3EDD9;
 	padding:5px;
 }
 td:first-child {
