@@ -1897,17 +1897,17 @@ thead span.sub {
 }
 
 td {
-	border-right:1px solid #D4D1C9;
-	border-bottom:1px solid #D4D1C9;
+	/*border-right:1px solid #D4D1C9;
+	border-bottom:1px solid #D4D1C9;*/
 	border-top:none;
 	background:#FFF;
-	padding:20px;
+	padding:5px;
 }
 td:first-child {
-	border-left:1px solid #D4D1C9;
+	/*border-left:1px solid #D4D1C9;*/
 }
 td:nth-child(even){
-	background:/*rb_color_accent2*/#F7F4E9/*e*/;
+	/*background:/*rb_color_accent2*/#F7F4E9/*e*/;*/
 }
 tbody td {
 	color:#575757;
