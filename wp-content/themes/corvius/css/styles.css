@@ -1855,6 +1855,7 @@ background: none repeat scroll 0 0 #FFFFFF;
    
 /* Table desgin */
 table {
+	margin:10px 0;
 	width:auto;
 	border-collapse:separate;
 	-moz-border-radius: 15px;
@@ -1899,12 +1900,14 @@ thead span.sub {
 	padding-left:1px;
 }
 
+tr:last-child td{text-align:right; padding-bottom:12px;}
+
 td {
 	/*border-right:1px solid #D4D1C9;
 	border-bottom:1px solid #D4D1C9;*/
 	border-top:none;
 	background:#F3EDD9;
-	padding:5px;
+	padding:5px 12px;
 }
 td:first-child {
 	/*border-left:1px solid #D4D1C9;*/
