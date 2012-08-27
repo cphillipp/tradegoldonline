@@ -171,7 +171,7 @@ a:hover, a:active, a:focus {
      color: #FFFFFF;
      font-family: 'Vegur';
      font-size: 15px;
-    padding: 8px 14px;
+    padding: 8px 13px;
      text-shadow: none;
 }
 #top ul li a:hover, #top ul li a.selected {
