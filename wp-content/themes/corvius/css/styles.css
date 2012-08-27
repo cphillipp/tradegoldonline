@@ -3144,3 +3144,4 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 }
 /* CUSTOM */
 .alignright	{float:right; margin:0 0 20px 20px;}
+.alignleft	{float:left; margin:0 20px 20px 0;}
