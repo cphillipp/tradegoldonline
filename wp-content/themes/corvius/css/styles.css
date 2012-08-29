@@ -152,7 +152,8 @@ a:hover, a:active, a:focus {
 /* *** */
 #top img {
 	float:left;
-	margin-top:18px;
+	margin-top:22px;
+	width:154px;
 }
 #top ul {
 	float:right;
