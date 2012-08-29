@@ -1,7 +1,6 @@
 <?php
 
 require TEMPLATEPATH . '/option-tree/index.php';
-require TEMPLATEPATH . '/includes/update-notifier.php';
 load_theme_textdomain( 'corvius', TEMPLATEPATH.'/lang' );
 
 
