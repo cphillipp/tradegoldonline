@@ -1513,6 +1513,7 @@ blockquote {
 /* Post info list */
 .postInfoList {
 	margin-bottom:50px;
+	min-height: 1px;
 }
 .postInfoList li {
 	float:left;
