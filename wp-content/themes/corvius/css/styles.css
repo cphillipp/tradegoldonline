@@ -3160,4 +3160,5 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 .practice-account .two 					{display:none;}
 .practice-account:hover .two 			{display:block;}
 h1 										{font-family:Arial;}
-
+.advanced-recent-posts li 				{color:#765706; clear:both;}
+.advanced-recent-posts li img			{margin:0 12px 10px; float:left;}
