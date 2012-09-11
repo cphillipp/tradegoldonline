@@ -3160,8 +3160,10 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 .practice-account .two 					{display:none;}
 .practice-account:hover .two 			{display:block;}
 h1 										{font-family:Arial;}
+.advanced-recent-posts 					{margin:0 0 40px;}
 .advanced-recent-posts li 				{clear:both;}
 .advanced-recent-posts li img			{margin:0 12px 10px 0; float:left;}
 .bio-title 								{font-size:18px; font-family: 'Museo-500', sans-serif; font-weight: normal; font-style: normal; color: #1F1F1F; margin-bottom: 17px;}
-.author-avatar 							{float:left; margin:0 12px 12px 0;}
+.author-bio 							{margin:0 0 20px;}
+.author-avatar 							{float:left; margin:0 12px 0 0;}
 .widget-title 							{clear:both;}
