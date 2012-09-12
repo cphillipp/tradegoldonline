@@ -3158,12 +3158,12 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 .live-account .two 						{display:none;}
 .live-account:hover .two 				{display:block;}
 
-.demo 									{margin:20px 75px 20px 0; padding:0; display:block; float:left;}
+.demo 									{margin:20px 75px 40px 0; padding:0; display:block; float:left;}
 .demo:hover .one 						{display:none;}
 .demo .two 								{display:none;}
 .demo:hover .two 						{display:block;}
 
-.live 									{margin:20px 0 20px; padding:0; display:block; float:left;}
+.live 									{margin:20px 0 40px; padding:0; display:block; float:left;}
 .live:hover .one 						{display:none;}
 .live .two 								{display:none;}
 .live:hover .two 						{display:block;}
