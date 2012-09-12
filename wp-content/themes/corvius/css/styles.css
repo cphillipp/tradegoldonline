@@ -1503,6 +1503,7 @@ blockquote {
  
 .blog h1 a {
 	color:#202020;
+	font-size:20px;
 } .blog h1 a:hover {
 	color:/*rb_color_hover*/#765706/*e*/;
 } .blog .secondary h1 {
