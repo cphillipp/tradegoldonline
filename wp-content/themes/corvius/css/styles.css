@@ -1615,7 +1615,7 @@ blockquote {
 .widget_categories li, .widget_archive li {
 	float:left;
 	width:120px;
-	margin:0 40px 3px 0;
+	margin:0 0px 3px 0; /* was margin:0 40px 3px 0; */
 	position:relative;
 }
 .widget a, .widget a {
