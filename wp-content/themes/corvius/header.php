@@ -105,7 +105,7 @@
 				<div class="container_16">
 					<h1><?php
 						if($post_tagline == '')
-							the_title(); 
+							the_category(); 
 						else
 							echo $post_tagline;
 						?>

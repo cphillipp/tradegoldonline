@@ -35,7 +35,7 @@
 			
 			$first = false;?>
 			<div id="post-<?php the_ID(); ?>" <?php post_class('first'); ?>>
-				<h1><a href="<?php the_permalink(); ?>"><?php the_category(','); ?></a></h1>
+				<h1><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
 				<ul class="postInfoList">
 					<li class="date"><strong><?php the_time('j'); ?></strong><span><?php the_time('S'); ?></span>&nbsp;<?php the_time('F Y'); ?></li>
 					<li class="author"><a href="<?php echo get_author_posts_url(get_the_author_meta( 'ID' )); ?>"><?php the_author(); ?></a></li>
@@ -57,7 +57,7 @@
 					<?php the_post_thumbnail('post-mini-thumb', array('class' => 'imgFrame'));?>
 				</a>
 				<div>
-					<h1><a href="<?php the_permalink(); ?>"><?php the_category(','); ?></a></h1>
+					<h1><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
 					<ul class="postInfoList">
 						<li class="date"><strong><?php the_time('j'); ?></strong><span><?php the_time('S'); ?></span>&nbsp;<?php the_time('F Y'); ?></li>
 						<li class="author"><a href="<?php echo get_author_posts_url(get_the_author_meta( 'ID' )); ?>"><?php the_author(); ?></a></li>
