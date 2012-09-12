@@ -19,7 +19,7 @@
 		<?php if($post_layout == 'No Sidebar (full width)'){
 			?><div class="blog"><?php
 		} else {
-			?><?php if(function_exists("useful_banner_manager_banners")){ useful_banner_manager_banners("1",1); } ?><div class="grid_10 blog"><?php
+			?><div class="grid_10 blog"><?php
 		}?>
 	
 	<?php while (have_posts()) : the_post(); ?>
