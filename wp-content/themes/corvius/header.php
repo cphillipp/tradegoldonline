@@ -100,12 +100,12 @@
 		<?php if ( !is_page_template('template-home.php') && !is_page_template('template-homeblog.php') ) { ?>
 		
 			<!-- If this is not the home page(with a slider), then display the tagline and the CAT button/Search form -->
-		
+			<!-- CUSTOM was the_title(); instead of the_category(); -->
 			<div id="tagline" class="gradient">
 				<div class="container_16">
 					<h1><?php
 						if($post_tagline == '')
-							the_category(); 
+							the_category();
 						else
 							echo $post_tagline;
 						?>
