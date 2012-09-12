@@ -1503,18 +1503,16 @@ blockquote {
  
 .blog h1 a {
 	color:#202020;
-	display: none;
 } .blog h1 a:hover {
 	color:/*rb_color_hover*/#765706/*e*/;
 } .blog .secondary h1 {
-	height:25px;
+	height:23px;
 	overflow:hidden;
 }
  
 /* Post info list */
 .postInfoList {
 	margin-bottom:50px;
-	min-height: 1px;
 }
 .postInfoList li {
 	float:left;
@@ -3134,7 +3132,7 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 }
 .archive .page > div, .archive .post > div, .archive .portfolio > div, .search .page > div, .search .post > div, .search .portfolio > div {
 	float:left;
-	width:419px;
+	width:400px;
 }
 .archive .page > a, .archive .post > a, .archive .portfolio > a, .search .page > a, .search .post > a, .search .portfolio > a {
     clear: left;
