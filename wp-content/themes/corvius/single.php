@@ -28,15 +28,13 @@ get_header();
 
 				<h1><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
 
-				<?php the_post_thumbnail('large', array('class' => 'imgFrame splash'));?><!-- CUSTOM moved up before postInfoList -->
-
 				<ul class="postInfoList">
 					<li class="date"><strong><?php the_time('j'); ?></strong><span><?php the_time('S'); ?></span>&nbsp;<?php the_time('l Y'); ?></li>
 					<li class="author"><a href="<?php echo get_author_posts_url(get_the_author_meta( 'ID' )); ?>"><?php the_author(); ?></a></li>
 					<li class="category"><?php the_category(','); ?></li>
 					<li class="comments"><?php comments_number('0', '1', '%'); ?></li>
 				</ul>
-				<div class="clear"></div> <!-- CUSTOM added this -->
+				<?php the_post_thumbnail('large', array('class' => 'imgFrame splash'));?>
 				<p><?php the_content(); ?></p>
 				
 				
