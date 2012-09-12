@@ -3158,7 +3158,7 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 .live-account .two 						{display:none;}
 .live-account:hover .two 				{display:block;}
 
-.demo 									{margin:20px 75px 40px 100px; padding:0; display:block; float:left;}
+.demo 									{margin:20px 0 40px 100px; padding:0; display:block; float:left;}
 .demo:hover .one 						{display:none;}
 .demo .two 								{display:none;}
 .demo:hover .two 						{display:block;}
