@@ -3175,7 +3175,7 @@ h1 										{font-family:Arial;}
 .author-bio 							{margin:0 0 20px;}
 .author-avatar 							{float:left; margin:0 12px 0 0;}
 .widget-title 							{clear:both;}
-/*.post .about 							{display:none;}*/
+.post .about 							{display:none;}
 /*#tagline								{margin:0; background:none; border:none; height:auto;}
 #tagline h1 							{margin-bottom:0;}
 #content 								{padding-top:20px;}*/
