@@ -90,12 +90,12 @@ h6 {
 }
 
 a, strong.color, .blogList a:hover {
-	color:/*rb_color_link*/#BC8E14/*e*/;
+	color:/*rb_color_link*/#2D648A/*e*/;
 	text-decoration:none;
 	outline:0;
 }
 a:hover {
-	color:/*rb_color_hover*/#765706/*e*/;
+	color:/*rb_color_hover*/#C34C28/*e*/;
 }
 a:hover, a:active, a:focus {
 	outline:0;
