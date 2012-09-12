@@ -1620,10 +1620,10 @@ blockquote {
 	position:relative;
 }
 .widget a, .widget a {
-	color:#3D3C3C;
+	color:#2D648A;
 }
 .widget a:hover, .widget a:hover {
-	color:/*rb_color_marked*/#BB8D13/*e*/;
+	color:/*rb_color_marked*/#C34C28/*e*/;
 }
 .widget_categories span, .widget_archive span {
 	font-size:9px;
