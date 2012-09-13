@@ -110,6 +110,7 @@
 							echo $post_tagline;
 						?>
 					</h1>
+					<!-- CUSTOM -->
 					<a class="taglineButton" href="?page_id=241">Become a Successful Gold Trader</a>
 					<!-- </?php
 						if($post_action == 'Search' || $post_action == 'Search form'){ 

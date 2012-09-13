@@ -3160,7 +3160,8 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 .alignleft								{float:left; margin:0 20px 20px 0;}
 #footer_middle .container_16 .grid_5 	{width:280px;}
 .contactForm 							{width:580px;}
-.live-account 							{margin:0; padding:0; position:absolute; top:-120px; left:428px;}
+
+.live-account 							{margin:0; padding:0; position:absolute; top:-120px; left:406px;}
 .live-account:hover .one 				{display:none;}
 .live-account .two 						{display:none;}
 .live-account:hover .two 				{display:block;}
