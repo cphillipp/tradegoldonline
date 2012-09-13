@@ -3188,7 +3188,7 @@ h1 													{font-family:Arial;}
 			
 .aweber-form 										{margin:20px 0 0; padding:20px 0; border-top: 1px dashed #0057AC; border-bottom: 2px solid #454545;}
 .aweber-form .af-form								{width: 960px !important; background:#FAE426 !important; -moz-border-radius:8px; border-radius:8px;}
-.aweber-form .af-form .af-element 					{width:44%; float:left;}
+.aweber-form .af-form .af-element 					{width:44%; float:left; position:relative; z-index:1;}
 .aweber-form .af-form .af-element.buttonContainer 	{width:auto; float:none; clear:both; margin:0 50px !important; position:relative; z-index:1; cursor:pointer;}
 .aweber-form .form-wrapper 							{margin:0 0 0 -480px; padding:55px 0 0 70px; width:960px; position:absolute; top:20px; left:50%; color:#2D648A; font-size:20px; font-family:arial; font-weight:bold;}
 .aweber-form .form-wrapper span 					{font-weight: normal; font-size: 15px; color: black; position: relative; top: -2px;}
