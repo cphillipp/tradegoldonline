@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ad Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-15 15:38+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: xs\n"
+"Language-Team: digitalnature.eu <hello@digitalnature.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: c:\\wamp\\www\\wpmu\\wp-content\\plugins\\ad-manager\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:260
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1083
+msgid "Ad Manager"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:288
+msgid "Manage Ads"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:419
+msgid "Prepend to post content"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:420
+msgid "Half-way trough post content (experimental)"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:421
+msgid "Append to post content"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:422
+msgid "Prepend to comment content"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:423
+msgid "Half-way trough comment content (experimental)"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:424
+msgid "Append to comment content"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:428
+msgid "Use shortcode"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:429
+msgid "Custom action"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:469
+msgid "Auto (any page with this location)"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:470
+msgid "Blog home"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:476
+#, php-format
+msgid "Single: %s"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:479
+msgid "Category archives"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:480
+msgid "Tag archives"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:481
+msgid "Author archives"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:482
+msgid "Date-based archives"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:483
+msgid "Search results"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:488
+#, php-format
+msgid "Taxonomy archive: %s"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:510
+msgid "To anyone"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:511
+msgid "Only to visitors (unregistered users)"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:512
+msgid "To all but administrators"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:518
+#, php-format
+msgid "By role: %s"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:595
+#, php-format
+msgid "Last 10 clicks for Ad #%d"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:601
+msgid "Freshness"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:602
+msgid "IP"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:603
+msgid "Referer"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:622
+msgid "No data yet"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:629
+msgid "Close"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:685
+#, php-format
+msgid "1 click"
+msgid_plural "%d clicks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:688
+msgid "Edit"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:689
+msgid "Clone"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:691
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1108
+msgid "Disable"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:693
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:853
+msgid "Enable"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:695
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:936
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1107
+msgid "Remove"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:767
+#, php-format
+msgid "The code you entered appears to belong to %s. Would you like to change the type of this ad to %s?"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:768
+msgid "Yes"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:769
+msgid "No"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:831
+#, php-format
+msgid "Editing Ad #%d"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:835
+msgid "New Ad"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:843
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1091
+msgid "Type"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:859
+msgid "Location of the ad"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:864
+msgid "Theme locations"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:866
+msgid "Current theme has not registered any ad locations"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:874
+msgid "Default locations"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:880
+msgid "Others"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:889
+msgid "Index:"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:894
+msgid "Action tag name:"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:903
+#, php-format
+msgid "Save the ad to find the ID that you can use within the %s shortcode"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:909
+msgid "Page visibility"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:918
+msgid "User visibility"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:933
+msgid "Save"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:934
+msgid "Cancel"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1028
+msgid "The requested ad type does not exist!"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1031
+msgid "The provided location is invalid!"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1034
+msgid "The page visibility setting you provided is invalid!"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1037
+msgid "The user visibility setting you provided is invalid!"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1040
+msgid "You must provide a valid action tag for the selected location."
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1084
+#, php-format
+msgid "Found a bug, having a feature request or just looking for help on using this plugin? Then head on to the %s."
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1084
+msgid "Ad Manager support forums"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1090
+msgid "ID"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1092
+msgid "Location"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1093
+msgid "Visibility"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1106
+msgid "With selected..."
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1111
+msgid "Create new"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-manager.php:1447
+#, php-format
+msgid "%d ad was imported from your theme - %s"
+msgid_plural "%d ads were mported from your theme - %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:53
+msgid "HTML Code"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:58
+msgid "Add your HTML code here..."
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:88
+msgid "Image w/ link"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:94
+msgid "Advertisment"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:106
+msgid "Link URI"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:110
+msgid "Title"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:114
+msgid "Image URI"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:121
+msgid "Track click count"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:128
+#, php-format
+msgid "and auto-disable after %s clicks (0 = no limit)"
+msgstr ""
+
+#: c:\wamp\www\wpmu\wp-content\plugins\ad-manager/ad-types.php:159
+msgid "You must provide a valid link URI"
+msgstr ""
+
