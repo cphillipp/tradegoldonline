@@ -13,7 +13,7 @@ $post_type = get_post_type();
 	<!-- CUSTOM ADDED AWEBER FORM -->
 	<div class="aweber-form">
 		<script type="text/javascript" src="http://forms.aweber.com/form/81/2052285981.js"></script>
-		<div class="form-wrapper">Join Our Free Newsletter!</div>
+		<div class="form-wrapper">Join Our Free Newsletter! <span>- Learn Valuable Insight About Gold By Joining Our Newsletter</span></div>
 	</div>	
 	<!-- Display newsletter -->
 	<!-- <div id="footer_top" </?php if(get_option_tree('rb_newsletter_enabled', $theme_options) != 'Enable widget') echo 'style="height:0"'; else ''; ?>>

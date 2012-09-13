@@ -3191,4 +3191,4 @@ h1 													{font-family:Arial;}
 .aweber-form .af-form .af-element 					{width:44%; float:left;}
 .aweber-form .af-form .af-element.buttonContainer 	{width:auto; float:none; clear:both; margin:0 50px !important;}
 .aweber-form .form-wrapper 							{margin:0 0 0 -480px; padding:55px 0 0 70px; width:960px; position:absolute; top:20px; left:50%; color:#2D648A; font-size:20px; font-family:arial; font-weight:bold;}
-
+.aweber-form .form-wrapper span 					{font-weight: normal; font-size: 15px; color: black; position: relative; top: -2px;}
