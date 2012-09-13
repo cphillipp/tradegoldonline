@@ -77,9 +77,9 @@ h4 {
 	font-family:Arial;
 	font-size:15px;
 	font-weight:700;
-	color:/*rb_color_marked*/#BB8D13/*e*/;
+	color:/*rb_color_marked*/#2D648A/*e*/;
 } .postsList h4 a:hover {
-	color:/*rb_color_hover*/#765706/*e*/;
+	color:/*rb_color_hover*/#C34C28/*e*/;
 }
 
 h5 {
@@ -1512,7 +1512,7 @@ blockquote {
 	color:#202020;
 	font-size:20px;
 } .blog h1 a:hover {
-	color:/*rb_color_hover*/#765706/*e*/;
+	color:/*rb_color_hover*/#C34C28/*e*/;
 } .blog .secondary h1 {
 	height:23px;
 	overflow:hidden;
@@ -3185,6 +3185,3 @@ h1 										{font-family:Arial;}
 .author-avatar 							{float:left; margin:0 12px 0 0;}
 .widget-title 							{clear:both;}
 .post .about 							{display:none;}
-/*#tagline								{margin:0; background:none; border:none; height:auto;}
-#tagline h1 							{margin-bottom:0;}
-#content 								{padding-top:20px;}*/
