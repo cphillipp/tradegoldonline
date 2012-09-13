@@ -96,6 +96,7 @@ a, strong.color, .blogList a:hover {
 }
 a:hover {
 	color:/*rb_color_hover*/#C34C28/*e*/;
+	text-decoration:underline;
 }
 a:hover, a:active, a:focus {
 	outline:0;
