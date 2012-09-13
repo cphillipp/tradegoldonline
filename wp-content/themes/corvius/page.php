@@ -12,9 +12,7 @@ get_header(); ?>
 	<?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
 		
 		<?php if($post_layout == 'No Sidebar (full width)'){
-			?><div id="sidebar" class="grid_5 prefix_1 blog"><?php
-					dynamic_sidebar($post_sidebar);
-			?></div><?php
+			?><div class="clearfix"><?php
 		} else {
 			?><div class="grid_10"><?php
 		}?>
