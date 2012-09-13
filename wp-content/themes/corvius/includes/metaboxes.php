@@ -94,7 +94,7 @@ $meta_boxes = array(
 				'desc' => __('Select some type of content for the right side of the header', 'starker'),
 				'id' => 'rb_meta_box_action',
 				'type' => 'select',
-				'options' => array(__('Call to action button', 'corvius'))
+				'options' => array(__('None', 'corvius'), __('Call to action button', 'corvius'), __('Search form', 'corvius'))
 			),
 			array(
 				'desc' => __('If you select a Call to action(CAT) button for the right side of the header, you need to set it\'s parameters below', 'corvius'),
