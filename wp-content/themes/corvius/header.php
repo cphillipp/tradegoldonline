@@ -101,6 +101,7 @@
 		
 			<!-- If this is not the home page(with a slider), then display the tagline and the CAT button/Search form -->
 			<!-- CUSTOM was the_title(); instead of the_category(); -->
+			<!-- CUSTOM was <a class="taglineButton" href="</?php echo $post_action2; ?>"></?php echo $post_action1; ?></a>-->
 			<div id="tagline" class="gradient">
 				<div class="container_16">
 					<h1><?php
@@ -114,7 +115,7 @@
 						if($post_action == 'Search' || $post_action == 'Search form'){ 
 							get_search_form();
 						} else if($post_action == 'Call to action button') { ?>
-							<a class="taglineButton" href="<?php echo $post_action2; ?>"><?php echo $post_action1; ?></a>
+							<a class="taglineButton" href="?page_id=241">Become a Successful Gold Trader</a>
 						<?php } ?>
 				</div>
 			</div>
