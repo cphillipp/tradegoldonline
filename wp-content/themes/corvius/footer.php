@@ -10,12 +10,13 @@ $post_type = get_post_type();
 </div>
 
 <div id="footer">
-		
+	<!-- CUSTOM ADDED AWEBER FORM -->
+	<div class="aweber-form"><script type="text/javascript" src="http://forms.aweber.com/form/81/2052285981.js"></script></div>	
 	<!-- Display newsletter -->
-	<div id="footer_top" <?php if(get_option_tree('rb_newsletter_enabled', $theme_options) != 'Enable widget') echo 'style="height:0"'; else ''; ?>>
+	<!-- <div id="footer_top" </?php if(get_option_tree('rb_newsletter_enabled', $theme_options) != 'Enable widget') echo 'style="height:0"'; else ''; ?>>
 	
 		<div class="container_16 newsletter">
-			<?php if(get_option_tree('rb_newsletter_enabled', $theme_options) == 'Enable widget'){
+			</?php if(get_option_tree('rb_newsletter_enabled', $theme_options) == 'Enable widget'){
 			
 					echo '<div class="newsletterIcon">Newsletter Icon</div>';
 					echo '<h3>'.get_option_tree('rb_newsletter_title', $theme_options).'</h3>';
@@ -31,7 +32,7 @@ $post_type = get_post_type();
 			}?>
 		</div>
 		
-	</div>
+	</div> -->
 	
 	<!-- Display footer siderbars -->
 	<div id="footer_middle" <?php if(is_active_sidebar('rb_footer_middle1') == 0 && is_active_sidebar('rb_footer_middle2') == 0 && is_active_sidebar('rb_footer_middle3') == 0) echo 'style="height:0;border-bottom:none;"'; else ''; ?>>
