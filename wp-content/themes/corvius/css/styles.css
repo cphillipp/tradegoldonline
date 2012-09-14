@@ -3154,6 +3154,7 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 	float:none;
 }
 /* CUSTOM */
+#content 											{position:relative;}
 .slidesHolder img 									{display:none;}
 .slidesHolder h1 									{text-align:center;}
 .alignright											{float:right; margin:0 0 20px 20px;}
