@@ -3155,7 +3155,7 @@ background: url("../images/projekktorTheme/start.png") no-repeat center center t
 }
 /* CUSTOM */
 #tagline 											{position: relative;}
-#tagline .tag 										{position: absolute; top:0; right:330px; color:red; font-size:15px; line-height: 73px;}
+#tagline .tag 										{position: absolute; top:0; right:486px; color:red; font-size:17px; line-height: 78px;}
 #content 											{position:relative;}
 .slidesHolder img 									{display:none;}
 .slidesHolder h1 									{text-align:center;}
@@ -3189,7 +3189,7 @@ h1 													{font-family:Arial;}
 .widget-title 										{clear:both;}
 .post .about 										{display:none;}
 			
-.aweber-form 										{margin:20px 0 0; padding:20px 0; min-height:80px; border-top: 1px dashed #0057AC; border-bottom: 2px solid #454545;}
+.aweber-form 										{margin:50px 0 0; padding:20px 0; min-height:80px; border-top: 1px dashed #0057AC; border-bottom: 2px solid #454545;}
 .aweber-form .af-form								{width: 960px !important; background:#FAE426 !important; -moz-border-radius:8px; border-radius:8px;}
 .aweber-form .af-form .af-element 					{width:44%; float:left; position:relative; z-index:1;}
 .aweber-form .af-form .af-element.buttonContainer 	{width:auto; float:none; clear:both; margin:0 50px !important; position:relative; z-index:1;}
