@@ -111,7 +111,7 @@
 						?>
 					</h1>
 					<!-- CUSTOM -->
-					<span class="tag">Get the Gold Trading Edge -</span><a class="taglineButton" href="?page_id=241">Join Our FREE Newsletter</a>
+					<!-- <span class="tag">Get the Gold Trading Edge -</span> --><a class="taglineButton" href="?page_id=241">Get the Gold Trading Edge - Join Our FREE Newsletter</a>
 					<!-- </?php
 						if($post_action == 'Search' || $post_action == 'Search form'){ 
 							get_search_form();
